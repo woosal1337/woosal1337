@@ -3,7 +3,7 @@
 
 <center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-🏫 2nd Year Student at **Istanbul Medipol University**
+🏫 Sophomore CE Student at **Istanbul Medipol University**
 
 🌀 Languages and Tools:</center>
 
