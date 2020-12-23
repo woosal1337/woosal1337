@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Vüsal İSMAYILOV!</h1>
-<h3 align="center">CS Student</h3>
+## ![Welcome to my profile 🤟](header.png)
 
-- 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-- 🏫 2nd Year Student at **Istanbul Medipol University**
+<center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-- 🌀 Languages and Tools:
+🏫 2nd Year Student at **Istanbul Medipol University**
 
-<p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio-code" width="40" height="40"/></p>
+🌀 Languages and Tools:</center>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&theme=tokyonight" alt="woosal1337" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/visualstudio/visualstudio-plain.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/slack/slack-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/premierepro/premierepro-plain.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/illustrator/illustrator-plain.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-plain.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/oracle/oracle-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linux/linux-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/java/java-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/google/google-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/cplusplus/cplusplus-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/chrome/chrome-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/c/c-original.svg" alt="github" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/apple/apple-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&theme=kacho_ga" alt="woosal1337" /></p>
 
 <p align="center">
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="woosal1337" height="30" width="30" /></a>
