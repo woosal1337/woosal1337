@@ -1,11 +1,11 @@
 ## ![Welcome to my profile 🤟](header.png)
 
 
-<center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!</center>
+<center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-<center>🏫 2nd Year Student at **Istanbul Medipol University**</center>
+🏫 2nd Year Student at **Istanbul Medipol University**
 
-<center>🌀 Languages and Tools:</center>
+🌀 Languages and Tools:</center>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 
