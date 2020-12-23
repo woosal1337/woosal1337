@@ -46,6 +46,4 @@
 <a href="https://dev.to/woosal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="woosal1337   " height="30" width="30" /></a>
 </p>
 
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3pd70lv4jpyjbjxjfgysx3pzl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=3pd70lv4jpyjbjxjfgysx3pzl&cover_image=true&theme=default" alt="Spotify Live" /></p>
