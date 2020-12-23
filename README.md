@@ -3,7 +3,7 @@
 
 <center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-🏫 Sophomore Student at **Istanbul Medipol University**
+🏫 2nd Year Student at **Istanbul Medipol University**
 
 🌀 Languages and Tools:</center>
 
@@ -47,5 +47,5 @@
 </p>
 
 
-<center>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3pd70lv4jpyjbjxjfgysx3pzl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) </center>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3pd70lv4jpyjbjxjfgysx3pzl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
