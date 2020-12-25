@@ -1,9 +1,14 @@
 ## ![Welcome to my profile 🤟](header.jpg)
 
 
-<center> 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
+<center> 
+🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-🏫 Sophomore CE Student at **Istanbul Medipol University**</center>
+🏫 **Sophomore CE Student at Istanbul Medipol University**
+
+🙋‍♂️ **18 years old enthusiast**
+</center>
+
 
 
 <p align="center">
