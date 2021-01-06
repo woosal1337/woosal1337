@@ -20,7 +20,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&theme=dark" alt="woosal1337" /></p>
-
-
-
-<p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=3pd70lv4jpyjbjxjfgysx3pzl&cover_image=true&theme=default" alt="Spotify Live"/></p>
