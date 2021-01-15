@@ -19,4 +19,13 @@
 <a href="https://dev.to/woosal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="woosal1337   " height="30" width="30" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&theme=dark" alt="woosal1337" /></p>
+```
+   /$$    /$$$$$$   /$$$$$$  /$$$$$$$$     /$$    /$$$$$$   /$$$$$$  /$$$$$$$$  
+ /$$$$   /$$__  $$ /$$__  $$|_____ $$/    /$$$$   /$$__  $$ /$$__  $$|_____ $$/
+|_  $$  |__/  \ $$|__/  \ $$     /$$/    |_  $$  |__/  \ $$|__/  \ $$     /$$/ 
+  | $$     /$$$$$/   /$$$$$/    /$$/       | $$     /$$$$$/   /$$$$$/    /$$/  
+  | $$    |___  $$  |___  $$   /$$/        | $$    |___  $$  |___  $$   /$$/   
+  | $$   /$$  \ $$ /$$  \ $$  /$$/         | $$   /$$  \ $$ /$$  \ $$  /$$/   
+ /$$$$$$|  $$$$$$/|  $$$$$$/ /$$/         /$$$$$$|  $$$$$$/|  $$$$$$/ /$$/  
+|______/ \______/  \______/ |__/         |______/ \______/  \______/ |__/  
+```
