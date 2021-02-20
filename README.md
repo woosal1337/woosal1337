@@ -12,8 +12,6 @@
 
 <details><summary>Tech</summary>
 <p align="center">
-<a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="woosal1337"/></a>
-<a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube\_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="woosal1337"/></a>
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="woosal1337"/></a>
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Visual\_Studio\_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="woosal1337"/></a>
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft\_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="woosal1337"/></a>
@@ -74,6 +72,13 @@
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="woosal1337"/></a>
 </p>
 </details>	
+
+<details><summary>Music</summary>
+<p align="center">
+<a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="woosal1337"/></a>
+<a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube\_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="woosal1337"/></a>	
+</p>
+</details>
 
 ```
                                         $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
