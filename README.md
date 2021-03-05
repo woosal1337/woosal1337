@@ -9,6 +9,13 @@
 🙋‍♂️ **18 years old enthusiast**
 </center>
 
+<p align="center">
+	<a href="https://github.com/woosal1337">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="woosal1337"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woosal1337&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="woosal1337"/>
+	</a>
+</p>
+
 
 <details><summary>Tech</summary>
 <p align="center">
@@ -78,7 +85,14 @@
 <a href="https://open.spotify.com/user/3pd70lv4jpyjbjxjfgysx3pzl?si=e2bmgrk6RP298DNC5pyozg" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="woosal1337"/></a>
 <a href="https://music.youtube.com/channel/UCyADzz0IgglMoCSHy6614_A" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube\_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="woosal1337"/></a>	
 </p>
+	
+	
 </details>
+
+<p align="center">
+<img src="https://spotify1337.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</p>
+	
 
 ```
                                           $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
