@@ -12,6 +12,8 @@
 
 :octocat: [**Gist**](https://gist.github.com/woosal1337) **Profile**
 
+**[#🐧ForTheWin!]()**
+
 <p align="center">
 	<a href="https://github.com/woosal1337">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=woosal1337&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="woosal1337"/>
