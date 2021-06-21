@@ -64,6 +64,7 @@
 <p align="center">
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="woosal1337"/></a>
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="woosal1337"/></a>
+<a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="woosal1337"/></a>
 </p>
 </details>
 	
